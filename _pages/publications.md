@@ -29,7 +29,7 @@ We introduce the Truncated History (TH) framework for synthetic control approach
 
 ## Working Papers:
 
-### Does a reduction in teacher education tuition fees reduce teacher shortages
+### Does a reduction in teacher education tuition fees reduce teacher shortages?
 
 **Co-authors:**  
 - [Bart Golsteyn](https://sites.google.com/site/bhhgolsteyn/)  
@@ -37,4 +37,7 @@ We introduce the Truncated History (TH) framework for synthetic control approach
 - [Ilja Cornelisz](https://research.vu.nl/en/persons/ilja-cornelisz/)  
 - [Tom Stolp](https://www.maastrichtuniversity.nl/nl/t-stolp) 
 
+### Student Effort and Multi-Tasking under Graduation Constraints
+
+**Single authored**
  
