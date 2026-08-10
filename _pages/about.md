@@ -11,7 +11,7 @@ My name is Peter Spoelstra, and I am a PhD Candidate in Economics at Maastricht 
 
 My main research area is policy econometrics, with a focus on economic questions in education and labor economics. I primarily use large-scale administrative data and develop econometric methods for applied research, with a particular emphasis on causal inference.
 
-My first PhD project, [Truncated History Framework for Synthetic Control Approaches](https://doi.org/10.1016/j.econlet.2025.112701) is published in the academic journal Economics Letters.
+My first PhD project, [Truncated History Framework for Synthetic Control Approaches](https://doi.org/10.1016/j.econlet.2025.112701) is published in the academic journal *Economics Letters*.
 
 If you are interested in my research, feel free to contact me at peter.spoelstra@maastrichtuniversity.nl
 

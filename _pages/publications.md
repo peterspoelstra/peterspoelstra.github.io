@@ -25,13 +25,13 @@ We introduce the Truncated History (TH) framework for synthetic control approach
 
 ## Working Papers:
 
-### Targeted Tuition Subsidies and Teacher Supply:Evidence from a Dutch Reform
+### Targeted Tuition Subsidies and Teacher Supply: Evidence from a Dutch Reform
 
-**Co-authors:** [Bart Golsteyn](https://sites.google.com/site/bhhgolsteyn/),[Chris van Klaveren](https://sites.google.com/site/chrispbjvanklaveren/), [Ilja Cornelisz](https://research.vu.nl/en/persons/ilja-cornelisz/), [Tom Stolp](https://www.maastrichtuniversity.nl/nl/t-stolp) 
+**Co-authors:** [Bart Golsteyn](https://sites.google.com/site/bhhgolsteyn/), [Chris van Klaveren](https://sites.google.com/site/chrispbjvanklaveren/), [Ilja Cornelisz](https://research.vu.nl/en/persons/ilja-cornelisz/), [Tom Stolp](https://www.maastrichtuniversity.nl/nl/t-stolp) 
 
 ### Student Effort and Multitasking under Graduation Constraints
 
-**Co-authors:** [Bart Golsteyn](https://sites.google.com/site/bhhgolsteyn/),[Chris van Klaveren](https://sites.google.com/site/chrispbjvanklaveren/), [Ilja Cornelisz](https://research.vu.nl/en/persons/ilja-cornelisz/)
+**Co-authors:** [Bart Golsteyn](https://sites.google.com/site/bhhgolsteyn/), [Chris van Klaveren](https://sites.google.com/site/chrispbjvanklaveren/), [Ilja Cornelisz](https://research.vu.nl/en/persons/ilja-cornelisz/)
 
 ### Identification in Repeated Panel Data
 
