@@ -25,11 +25,11 @@ We introduce the Truncated History (TH) framework for synthetic control approach
 
 ## Working Papers:
 
-### Does a reduction in teacher education tuition fees reduce teacher shortages?
+### Targeted Tuition Subsidies and Teacher Supply:Evidence from a Dutch Reform
 
 **Co-authors:** [Bart Golsteyn](https://sites.google.com/site/bhhgolsteyn/),[Chris van Klaveren](https://sites.google.com/site/chrispbjvanklaveren/), [Ilja Cornelisz](https://research.vu.nl/en/persons/ilja-cornelisz/), [Tom Stolp](https://www.maastrichtuniversity.nl/nl/t-stolp) 
 
-### Student Effort and Multi-Tasking under Graduation Constraints
+### Student Effort and Multitasking under Graduation Constraints
 
 **Co-authors:** [Bart Golsteyn](https://sites.google.com/site/bhhgolsteyn/),[Chris van Klaveren](https://sites.google.com/site/chrispbjvanklaveren/), [Ilja Cornelisz](https://research.vu.nl/en/persons/ilja-cornelisz/)
 
