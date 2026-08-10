@@ -12,6 +12,8 @@ redirect_from:
 ### [Truncated History Framework for Synthetic Control Approaches](https://doi.org/10.1016/j.econlet.2025.112701)
 **Economics Letters**
 
+**Co-authors:**  [Bart Golsteyn](https://sites.google.com/site/bhhgolsteyn/), [Chris van Klaveren](https://sites.google.com/site/chrispbjvanklaveren/), [Ilja Cornelisz](https://research.vu.nl/en/persons/ilja-cornelisz/), [Tom Stolp](https://www.maastrichtuniversity.nl/nl/t-stolp) 
+
 **Abstract:**  
 <details>
 <summary>Show</summary>
@@ -20,24 +22,17 @@ We introduce the Truncated History (TH) framework for synthetic control approach
 
 </details>
 
-**Co-authors:**  
-- [Bart Golsteyn](https://sites.google.com/site/bhhgolsteyn/)  
-- [Chris van Klaveren](https://sites.google.com/site/chrispbjvanklaveren/)  
-- [Ilja Cornelisz](https://research.vu.nl/en/persons/ilja-cornelisz/)  
-- [Tom Stolp](https://www.maastrichtuniversity.nl/nl/t-stolp)  
-
 
 ## Working Papers:
 
 ### Does a reduction in teacher education tuition fees reduce teacher shortages?
 
-**Co-authors:**  
-- [Bart Golsteyn](https://sites.google.com/site/bhhgolsteyn/)  
-- [Chris van Klaveren](https://sites.google.com/site/chrispbjvanklaveren/)  
-- [Ilja Cornelisz](https://research.vu.nl/en/persons/ilja-cornelisz/)  
-- [Tom Stolp](https://www.maastrichtuniversity.nl/nl/t-stolp) 
+**Co-authors:** [Bart Golsteyn](https://sites.google.com/site/bhhgolsteyn/),[Chris van Klaveren](https://sites.google.com/site/chrispbjvanklaveren/), [Ilja Cornelisz](https://research.vu.nl/en/persons/ilja-cornelisz/), [Tom Stolp](https://www.maastrichtuniversity.nl/nl/t-stolp) 
 
 ### Student Effort and Multi-Tasking under Graduation Constraints
 
+**Co-authors:** [Bart Golsteyn](https://sites.google.com/site/bhhgolsteyn/),[Chris van Klaveren](https://sites.google.com/site/chrispbjvanklaveren/), [Ilja Cornelisz](https://research.vu.nl/en/persons/ilja-cornelisz/)
+
+### Identification in Repeated Panel Data
+
 **Single authored**
- 
