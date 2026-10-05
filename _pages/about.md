@@ -17,8 +17,8 @@ If you are interested in my research, feel free to contact me at peter.spoelstra
 
 ## Upcoming Events
 
-- [4th Workshop on Education Economics and Policy (WEEP)](https://sites.google.com/site/prgreenc/weep-2026), 7–8 September 2026, Trondheim, Norway
-- [MPI / ECONtribute Workshop on Human Capital and Education](https://theeconomicmisfit.com/2026/05/20/call-for-papers-mpi-econtribute-workshop-on-human-capital-and-education/), 1–2 October 2026, Bonn, Germany
+- [De Nederlandse Economendag (The Dutch Economists' Day)](https://esb.nu/nederlandse-economendag-2026/), 23 October 2026, the Hague, the Netherlands
+
 
 
 
